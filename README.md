@@ -8,3 +8,5 @@ The application will then respond with some number of +’s and -’s where the 
 
 - If the code breaker guesses correctly, the program prints “You solved it!”. 
 - If the code breaker runs out of tries, the program prints “You lose :(“ 
+
+![](https://github.com/fxl306/MasterMindPlayer/blob/main/MasterMindPlayer.gif)
